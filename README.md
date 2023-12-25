@@ -102,3 +102,8 @@ useEffect를 사용하여 해결하였고, 랜덤한 fakerData는 새로고침�
 ## 구현목표
 <img width="1100" alt="스크린샷 2023-12-08 오후 1 38 11" src="https://github.com/mobi-community/mobi-2th-begginer-1/assets/134191815/50e75468-6112-4b15-810b-338547b993d3">
 
+
+------
+
+[ 12/25 ] 
+페이지네이션을 구현하지 못했기 때문에, 기능 구현을 위해 혼자 다시시작합니다!!
